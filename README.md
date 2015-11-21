@@ -1,2 +1,2 @@
 # git-demo
-a nicely markdown-formatted README.md file
+this is a nicely markdown-formatted README.md file
